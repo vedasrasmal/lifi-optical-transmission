@@ -201,6 +201,3 @@ lifi-optical-transmission/
 
 MIT — see [LICENSE](LICENSE).
 
-## Contributors
-
-- [Vedant Gadekar](https://github.com/Vedant04-08)
