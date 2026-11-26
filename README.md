@@ -200,4 +200,3 @@ lifi-optical-transmission/
 ## License
 
 MIT — see [LICENSE](LICENSE).
-
